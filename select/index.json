@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "いこう",
+  "base_artist": "Ikimonogakari",
+  "createdAt": "2026-03-06T09:39:03.513885Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いこう",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/01_いこう_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いこう",
+      "artist": "生物股长",
+      "has_synced": true,
+      "path": "select/02_いこう_生物股长.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いこう",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/03_いこう_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いこう",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/04_いこう_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いこう",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_01_いこう_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "いこう",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_02_いこう_いきものがかり.txt"
+    }
+  ]
+}
